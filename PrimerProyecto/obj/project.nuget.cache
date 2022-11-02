@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mw3mGGvCxPM0nbOML/Py2+hvvdAu9n7xAFlc/8silhgqc6KiflpAiFPTMeE8Pzf2WiCLhCclcPjo2JH8XaDZ+A==",
+  "dgSpecHash": "FrHsIeRiSXAv0YaSQnZ2aLPgrKE4WkJrO8gkdryGlZmX5W6C+kF3kx9aRFNFhm7pwdgOUQc8utFA8hSmhVaIIg==",
   "success": true,
-  "projectFilePath": "Z:\\Redpe\\Hola\\PrimerProyecto\\PrimerProyecto.csproj",
+  "projectFilePath": "C:\\Users\\46645772\\Downloads\\Redpe\\Hola-1\\PrimerProyecto\\PrimerProyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46645772\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\46645772\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
