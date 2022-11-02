@@ -9,6 +9,7 @@ namespace RedPe.Models
     {
         private static List<Pelicula> _ListadoPelicula= new List<Pelicula>(); 
          private static List<Reseña> _ListadoReseña= new List<Reseña>(); 
+         
         
 
         private static string _connectionString = @"Server=127.0.0.1; 
