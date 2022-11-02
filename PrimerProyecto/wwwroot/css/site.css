@@ -15,4 +15,9 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color:#c5b7dd;
+  color: black;
 }
+ footer{
+  background-color:#f9f7f6;
+ }
