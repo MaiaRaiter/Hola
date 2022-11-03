@@ -26,16 +26,17 @@ namespace RedPe.Models
         } 
        
     }
-       public static List<Pelicula> ListarPeliculas(int IdPelicula)
+       public static List<Pelicula> ListarPeliculas()
     {
 
        using (SqlConnection db = new SqlConnection(_connectionString))
        {
-        string sql = "SELECT * FROM Peliculas where IdPelicula=@IdPelicula";
-        _ListadoPelicula =db.Query<Pelicula>(sql,new{pidPelicula=IdPelicula}).ToList();
+        string sql = "SELECT * FROM Pelicula";
+        return db.Query<Pelicula>(sql).ToList();
        
        }
-       return _ListadoPelicula;
+        
+      
 
    }
    public static Pelicula VerInfoPelicula(int IdPelicula)

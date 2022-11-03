@@ -15,9 +15,25 @@ html {
 
 body {
   margin-bottom: 60px;
-  background-color:#c5b7dd;
-  color: black;
+  background-color:black;
+  color: orange;
 }
  footer{
-  background-color:#f9f7f6;
+  
  }
+ .card-peliculas
+ {
+   width:20%;
+  /*color del titulo */
+
+  text-align: center;
+  /* distansiamiento entre las cards*/
+  margin: 70px;
+  
+ }
+
+ .fondo
+{
+  background-image: url("/imagenes/fondo.jpg");
+  background-size: 100%;
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BXDQ+anZOsMU6KWwIgzBmwhW+kdKwNtF3oCC8GK5sPs=",
+  "Hash": "REDJZbgWw6G6Xm7Qmq2Hf0teRhurBC8TX8aqj+6QMCs=",
   "Source": "PrimerProyecto",
   "BasePath": "_content/PrimerProyecto",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PrimerProyecto\\wwwroot",
       "Source": "PrimerProyecto",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimerProyecto.styles.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimerProyecto.styles.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "PrimerProyecto.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimerProyecto.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimerProyecto.styles.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimerProyecto.bundle.scp.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimerProyecto.bundle.scp.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "PrimerProyecto.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimerProyecto.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimerProyecto.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\css\\site.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\favicon.ico",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\BastardosSinGloria.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\10RazonesParaOdiarte.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/10RazonesParaOdiarte.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\10RazonesParaOdiarte.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\BastardosSinGloria.jpg",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/BastardosSinGloria.jpg",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\BastardosSinGloria.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\ClubDeLaPelea.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\ClubDeLaPelea.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/ClubDeLaPelea.jpg",
       "AssetKind": "All",
@@ -119,10 +136,44 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\ClubDeLaPelea.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\ForrestGump.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\fondo.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/fondo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\fondo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Forrest Gump.jpg",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/Forrest Gump.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Forrest Gump.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\ForrestGump.jpg",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/ForrestGump.jpg",
       "AssetKind": "All",
@@ -136,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\ForrestGump.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\GreatestShowman.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\GreatestShowman.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/GreatestShowman.jpg",
       "AssetKind": "All",
@@ -153,12 +204,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\GreatestShowman.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\harryPotter1.jpeg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\harryPotter1.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
-      "RelativePath": "imagenes/harryPotter1.jpeg",
+      "RelativePath": "imagenes/harryPotter1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\harryPotter1.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\harryPotter1.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\InfinityWar.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\InfinityWar.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/InfinityWar.jpg",
       "AssetKind": "All",
@@ -187,10 +238,27 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\InfinityWar.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Padrino.jpg",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\MiVillanoFavorito2.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/MiVillanoFavorito2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\MiVillanoFavorito2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Padrino.jpg",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/Padrino.jpg",
       "AssetKind": "All",
@@ -204,10 +272,27 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\Padrino.jpg"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\REDPE.png",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\PitchPerfect.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/PitchPerfect.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\PitchPerfect.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\REDPE.png",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "imagenes/REDPE.png",
       "AssetKind": "All",
@@ -221,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\REDPE.png"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\js\\site.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -238,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -663,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -680,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -697,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -714,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -731,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -799,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -816,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -833,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -850,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -867,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -884,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -901,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -918,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -935,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -952,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -969,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1003,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1020,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1037,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1054,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1071,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1088,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1105,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1122,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1139,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1156,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1173,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1190,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

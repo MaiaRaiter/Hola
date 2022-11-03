@@ -18,8 +18,9 @@ public class HomeController : Controller
     }
     
 
-    public IActionResult Index()
+  public IActionResult Index()
     {
+        ViewBag.Lista = BD.ListarPeliculas();
         return View();
     }
 
