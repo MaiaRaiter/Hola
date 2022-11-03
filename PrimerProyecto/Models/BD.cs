@@ -28,7 +28,7 @@ namespace RedPe.Models
     }
        public static List<Pelicula> ListarPeliculas()
     {
-
+            
        using (SqlConnection db = new SqlConnection(_connectionString))
        {
         string sql = "SELECT * FROM Pelicula";
@@ -36,7 +36,7 @@ namespace RedPe.Models
        
        }
         
-      
+
 
    }
    public static Pelicula VerInfoPelicula(int IdPelicula)
