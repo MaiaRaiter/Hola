@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7iGvttirB+HdbgXLUQ0R+63N9z5+yUap7Z9LyvtZwWI=",
+  "Hash": "pbQ/yl5otcyz+d8DORfR2MeAfQr81+1oRiAotqGlz3w=",
   "Source": "PrimerProyecto",
   "BasePath": "_content/PrimerProyecto",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimerProyecto.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\AGRESSIVE.otf",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "AGRESSIVE.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AGRESSIVE.otf"
     },
     {
       "Identity": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\commando.ttf",
@@ -1375,6 +1392,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\lion_king.ttf",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "lion_king.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lion_king.ttf"
     }
   ]
 }

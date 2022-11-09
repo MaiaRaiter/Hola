@@ -43,6 +43,7 @@ body {
 .delimitador{
   width:560px;
   margin:auto;
+  margin-top: 10%;
   }
   /* El contenedor con el padding-top crea el tamaño del vídeo */
   .contenedor{
@@ -51,6 +52,7 @@ body {
   max-width:560px; /* Así establecemos el ancho máximo (si lo queremos) */
   padding-top:56.25%; /* Relación: 16/9 = 56.25% */
   position:relative;
+  
 
 
   }
@@ -68,11 +70,13 @@ body {
   text-align:right;
   width: 250px;
   height:auto;
+  left: 20px;
+  margin-top: -73%;
 
 }
 @font-face{
   font-family:'Bienvenidos';
-  src: url(commando.ttf);
+  src: url(lion_king.ttf);
 }
 
 .card-title 
@@ -82,4 +86,16 @@ body {
 .recomendacion
 {
   font-family:'Bienvenidos';
+}
+
+.Director
+{
+  font-family:'Bienvenidos';
+  font-size: 0.5cm;
+  margin-top: -23%;
+}
+
+.fondoGris
+{
+  background-color: gray;
 }
