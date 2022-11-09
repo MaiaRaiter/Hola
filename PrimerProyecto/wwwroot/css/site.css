@@ -17,6 +17,7 @@ body {
   margin-bottom: 60px;
   background-color:black;
   color: orange;
+  
 }
  footer{
   
@@ -29,6 +30,7 @@ body {
   text-align: center;
   /* distansiamiento entre las cards*/
   margin: 70px;
+  font-family:'Bienvenidos'; 
   
  }
 
@@ -36,4 +38,48 @@ body {
 {
   background-image: url("/imagenes/fondo.jpg");
   background-size: 100%;
+}
+
+.delimitador{
+  width:560px;
+  margin:auto;
+  }
+  /* El contenedor con el padding-top crea el tamaño del vídeo */
+  .contenedor{
+  height:0px;
+  width:100%;
+  max-width:560px; /* Así establecemos el ancho máximo (si lo queremos) */
+  padding-top:56.25%; /* Relación: 16/9 = 56.25% */
+  position:relative;
+
+
+  }
+  /* El iframe se adapta al tamaño del contenedor */
+  iframe{
+  position:absolute;
+  height:100%;
+  width:100%;
+  top:0px;
+  left:0px;
+  }
+  .fotoPeli
+{
+  border-radius: 10%;
+  text-align:right;
+  width: 250px;
+  height:auto;
+
+}
+@font-face{
+  font-family:'Bienvenidos';
+  src: url(commando.ttf);
+}
+
+.card-title 
+{
+  font-weight: 900;
+}
+.recomendacion
+{
+  font-family:'Bienvenidos';
 }

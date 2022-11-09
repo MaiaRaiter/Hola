@@ -40,7 +40,7 @@ public class HomeController : Controller
     {
         ViewBag.DatosPelicula = BD.VerInfoPelicula(IdPelicula);
         
-        return View("Pelicula");
+        return View("VerInfoPelicula");
     }
 
      public IActionResult AgregarReseña(int IdReseña)

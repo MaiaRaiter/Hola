@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "VerInfoPelicula";
+}
+
+
+<html>
+
+
+	<body class="fondo">
+
+
+    <div class="text-center">
+    <h1>@ViewBag.DatosPelicula.Nombre</h1>
+    </div>
+
+   <div class="delimitador">
+<div class="contenedor">
+<iframe src="https://www.youtube.com/embed/sOnqjkJTMaA"></iframe>
+</div>
+<div class="contenedor">
+<iframe src="http://player.vimeo.com/video/52553020"></iframe>
+</div>
+</div>
+
+	<img class="fotoPeli"src=\imagenes\@ViewBag.DatosPelicula.Foto >
+
+ <h1 class="datos">Director: @ViewBag.DatosPelicula.Director</h1>
+        <h1 class="datos">Sinopsis: @ViewBag.DatosPelicula.Sintesis</h1>
+
+
+
+
+
+
+</body>
+	
+<html>
