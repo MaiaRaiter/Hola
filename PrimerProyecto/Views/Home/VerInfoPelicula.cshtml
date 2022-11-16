@@ -44,8 +44,8 @@
   
       
  }
-<a href='@Url.Action("AgregarReseña","Home",new{idReseña = @p.IdReseña, IdPelicula = @p.IdPelicula})'></a>
-    <button class="btn btn-primary" type="submit">Escribe tu propia reseña </button>
+<a href='@Url.Action("AgregarReseña","Home",new{IdPelicula = @ViewBag.DatosPelicula.IdPelicula})' class="btn btn-primary">Escribir Reseña</a>
+
 
 </body>
 	
