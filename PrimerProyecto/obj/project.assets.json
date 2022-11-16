@@ -482,23 +482,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\47129177\\.nuget\\packages\\": {},
+    "C:\\Users\\46645772\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola-1\\PrimerProyecto\\PrimerProyecto.csproj",
+      "projectUniqueName": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\PrimerProyecto.csproj",
       "projectName": "PrimerProyecto",
-      "projectPath": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola-1\\PrimerProyecto\\PrimerProyecto.csproj",
-      "packagesPath": "C:\\Users\\47129177\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47129177\\Downloads\\RedPe\\Hola-1\\PrimerProyecto\\obj\\",
+      "projectPath": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\PrimerProyecto.csproj",
+      "packagesPath": "C:\\Users\\46645772\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\46645772\\Downloads\\RedPe\\Hola\\PrimerProyecto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\47129177\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\46645772\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

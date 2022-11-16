@@ -39,9 +39,16 @@ public class HomeController : Controller
     public IActionResult VerDetallePelicula(int IdPelicula)
     {
         ViewBag.DatosPelicula = BD.VerInfoPelicula(IdPelicula);
-        
+        ViewBag.DatosReseña = BD.VerInfoReseña(IdPelicula);
         return View("VerInfoPelicula");
     }
+    //     public IActionResult VerInfoReseña(int IdReseña)
+    // {
+    //     ViewBag.ListaR = BD.ListarReseña();
+    //     ViewBag.DatosReseña = BD.VerInfoPelicula(IdReseña);
+        
+    //     return View("VerInfoPelicula");
+    // }
 
      public IActionResult AgregarReseña(int IdReseña)
     {

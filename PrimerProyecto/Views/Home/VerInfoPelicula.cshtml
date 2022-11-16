@@ -23,7 +23,7 @@
 </div>
 </div>
 
-	<img class="fotoPeli"src=\imagenes\@ViewBag.DatosPelicula.Foto >
+	<img class="fotoPeli"src="@ViewBag.DatosPelicula.Foto" >
 
  <h1 class="Director">Director: @ViewBag.DatosPelicula.Director</h1>
  <div class="jumbotron jumbotron-fluid">
@@ -33,6 +33,22 @@
 
   </div>
 </div>
+
+  @foreach(Reseña res in @ViewBag.DatosReseña)
+ {
+  <img src="@res.Foto" class="mr-3" alt="...">
+  <div class="media-body">
+    <h5 class="mt-0"> @res.Titulo</h5>
+        <h2 class="mt-0"> @res.NombreDelUsuario</h2>
+   @res.Contenido
+  </div> 
+
+
+
+
+
+
+ }
        
 
 

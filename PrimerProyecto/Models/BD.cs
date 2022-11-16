@@ -16,7 +16,7 @@ namespace RedPe.Models
         Database=RedPe;Trusted_Connection=True;";//CAMBIAR EL NUMERO DE LA COMPU
 
        public static void  AgregarReseña(Reseña Res)
-    {
+        {
         
         string sql = "INSERT INTO Reseñas (IdReseña,NombreDelUsuario,CantLikes,Contenido,Foto) VALUES (@pIdReseña, @pNombreDelUsuario,  @pCantLikes, @pContenido, @pFoto)";
         using(SqlConnection db = new SqlConnection(_connectionString))
@@ -25,20 +25,29 @@ namespace RedPe.Models
             db.Execute(sql, new {  pIdReseña = Res.IdReseña, pNombreDelUsuario = Res.NombreDelUsuario, pCantLikes = Res.CantLikes, pContenido = Res.Contenido, pFoto = Res.Foto});
         } 
        
-    }
+        }
        public static List<Pelicula> ListarPeliculas()
+        {
+            
+        using (SqlConnection db = new SqlConnection(_connectionString))
+        {
+            string sql = "SELECT * FROM Pelicula";
+            return db.Query<Pelicula>(sql).ToList();
+        
+            }   
+        }
+        public static List<Reseña> ListarReseña()
     {
             
        using (SqlConnection db = new SqlConnection(_connectionString))
        {
-        string sql = "SELECT * FROM Pelicula";
-        return db.Query<Pelicula>(sql).ToList();
+        string sql = "SELECT * FROM Reseñas";
+        return db.Query<Reseña>(sql).ToList();
        
        }
-        
+    }
 
-
-   }
+   
    public static Pelicula VerInfoPelicula(int IdPelicula)
     {
         Pelicula MiPelicula;
@@ -50,6 +59,18 @@ namespace RedPe.Models
        }
         return MiPelicula;
     }
+  public static List<Reseña> VerInfoReseña(int IdPelicula)
+    {
+       List<Reseña> ListaReseñas = new List<Reseña>();
+       using (SqlConnection db = new SqlConnection(_connectionString))
+       {
+        string sql = "SELECT * FROM Reseñas WHERE IdPelicula=@pId ";
+       ListaReseñas= db.Query<Reseña>(sql, new {pId=IdPelicula}).ToList();
+       
+       }
+        return ListaReseñas;
+    }
+
     public static int EliminarReseña(int IdReseña)
     {
         
@@ -60,7 +81,6 @@ namespace RedPe.Models
         }
     }
 
-
-
 }
+
 }
