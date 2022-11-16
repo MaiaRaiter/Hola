@@ -63,6 +63,7 @@ body {
   width:100%;
   top:0px;
   left:0px;
+  margin-top: -20%;
   }
   .fotoPeli
 {
@@ -71,7 +72,7 @@ body {
   width: 250px;
   height:auto;
   left: 20px;
-  margin-top: -73%;
+  margin-top: -40%;
 
 }
 @font-face{
@@ -92,7 +93,7 @@ body {
 {
   font-family:'Bienvenidos';
   font-size: 0.5cm;
-  margin-top: -23%;
+  margin-top: -5%;
 }
 
 .fondoGris

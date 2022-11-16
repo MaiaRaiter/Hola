@@ -15,15 +15,11 @@
 
    <div class="delimitador">
 <div class="contenedor">
-<iframe src=https://www.youtube.com/embed/R7aiJtcJ0AQ></iframe>
-</div>
-<div class="contenedor">
-  
-<iframe src="https://player.vimeo.com/video/52553020"></iframe>
+<iframe src=@ViewBag.DatosPelicula.Trailer></iframe>
 </div>
 </div>
 
-	<img class="fotoPeli"src="@ViewBag.DatosPelicula.Foto" >
+	<img class="fotoPeli"src="/imagenes/@ViewBag.DatosPelicula.Foto" >
 
  <h1 class="Director">Director: @ViewBag.DatosPelicula.Director</h1>
  <div class="jumbotron jumbotron-fluid">
@@ -38,22 +34,18 @@
  {
   <img src="@res.Foto" class="mr-3" alt="...">
   <div class="media-body">
-    <h5 class="mt-0"> @res.Titulo</h5>
-        <h2 class="mt-0"> @res.NombreDelUsuario</h2>
+  <h5 class="mt-0"> @res.NombreDelUsuario</h5>
+  <h2 class="mt-0"> @res.Titulo</h2>
    @res.Contenido
   </div> 
-
-
-
-
-
-
+    <a href='@Url.Action("EliminarReseña","Home",new{idReseña = @res.IdReseña, IdPelicula = @res.IdPelicula})'></a>
+    <button class="btn btn-primary" type="submit">Eliminar Reseña</button>
+    <br></br>
+  
+      
  }
-       
-
-
-
-
+<a href='@Url.Action("AgregarReseña","Home",new{idReseña = @p.IdReseña, IdPelicula = @p.IdPelicula})'></a>
+    <button class="btn btn-primary" type="submit">Escribe tu propia reseña </button>
 
 </body>
 	

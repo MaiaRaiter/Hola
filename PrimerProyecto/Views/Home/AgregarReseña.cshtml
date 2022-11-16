@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!--SE LO PASA A LA ACCION DEL controller QUE LO VA A MANDAR A LA VIEW-->
+
+
+
+<h1 class="ingresodedatos">INGRESE LOS DATOS PEDIDOS A CONTINUACIón PARA ESCRIBIR TU PROPIA RESEÑA</h1>
+<div >
+<form action='@Url.Action("GuardarReseña", "Home")' method="post" enctype="multipart/form-data">
+
+  <input class="form-control" type="hidden" name="IdPelicula" value="@ViewBag.IdPelicula">
+
+  <div class="form-group">
+    <label for="exampleInputname1"> Titulo: </label>
+    <input type="text" name="Nombre" class="form-control" id="exampleInputname1" required>
+  </div>
+
+ 
+
+  <input class="form-group" type="file" name="Foto" required>
+
+  <div class="form-group">
+    <label for="exampleInputname1">Ingresen el equipo actual del jugador</label>
+    <input type="text" name="EquipoActual" class="form-control" id="exampleInputname1" required>
+  </div>
+  <button  type="submit" class="btn btn-primary">Guardar Jugador</button>
+</form>
+</div>
+
+
+
