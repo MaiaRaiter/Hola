@@ -100,4 +100,10 @@ body {
   background-color: gray;
 }
 
-.foto-perfil {max-height:35px}
+.foto-perfil {
+
+width:45px;
+height:45px;
+
+
+}
