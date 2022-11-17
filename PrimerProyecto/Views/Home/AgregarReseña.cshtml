@@ -5,24 +5,29 @@
 
 
 
-<h1 class="ingresodedatos">INGRESE LOS DATOS PEDIDOS A CONTINUACIón PARA ESCRIBIR TU PROPIA RESEÑA</h1>
+<h1 class="ingresodedatos">INGRESE LOS DATOS PEDIDOS A CONTINUACIÓN PARA ESCRIBIR TU PROPIA RESEÑA</h1>
 <div >
-<form action='@Url.Action("GuardarReseña", "Home")' method="post" enctype="multipart/form-data">
+<form action='@Url.Action("GuardarResena", "Home")' method="post" enctype="multipart/form-data">
 
   <input class="form-control" type="hidden" name="IdPelicula" value="@ViewBag.IdPelicula">
+  <input class="form-control" type="hidden" name="CantLikes" value=0>
+    <div class="form-group">
+    <label for="exampleInputname1"> Ingrese su Nombre de Usuario </label>
+    <input type="text" name="NombreDelUsuario" class="form-control" id="exampleInputname1" required>
+  </div>
 
   <div class="form-group">
     <label for="exampleInputname1"> Titulo: </label>
-    <input type="text" name="Nombre" class="form-control" id="exampleInputname1" required>
+    <input type="text" name="Titulo" class="form-control" id="exampleInputname1" required>
   </div>
 
  
 
-  <input class="form-group" type="file" name="Foto" required>
+  <input class="form-group" type="file" name="Foto" >
 
   <div class="form-group">
-    <label for="exampleInputname1">Ingresen el equipo actual del jugador</label>
-    <input type="text" name="EquipoActual" class="form-control" id="exampleInputname1" required>
+    <label for="exampleInputname1">Ingresen su opinion respecto a la película</label>
+    <input type="text" name="Contenido" class="form-control" id="exampleInputname1" required>
   </div>
   <button  type="submit" class="btn btn-primary">Subir Reseña</button>
 </form>

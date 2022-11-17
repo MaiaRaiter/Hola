@@ -15,14 +15,14 @@ namespace RedPe.Models
         private static string _connectionString = @"Server=127.0.0.1; 
         Database=RedPe;Trusted_Connection=True;";//CAMBIAR EL NUMERO DE LA COMPU
 
-       public static void  AgregarReseña(Reseña Res)
+       public static void  AgregarReseña(Reseña Res) 
         {
         
-        string sql = "INSERT INTO Reseñas (IdReseña,NombreDelUsuario,CantLikes,Contenido,Foto) VALUES (@pIdReseña, @pNombreDelUsuario,  @pCantLikes, @pContenido, @pFoto)";
+        string sql = "INSERT INTO Reseñas (NombreDelUsuario,CantLikes,Contenido,Foto,Titulo,IdPelicula) VALUES ( @pNombreDelUsuario,  @pCantLikes, @pContenido, @pFoto, @pTitulo, @pIdPelicula)";
         using(SqlConnection db = new SqlConnection(_connectionString))
-        {
+        {  
             //crea un nuevo jugador en la base de datos con los valores de jug
-            db.Execute(sql, new {  pIdReseña = Res.IdReseña, pNombreDelUsuario = Res.NombreDelUsuario, pCantLikes = Res.CantLikes, pContenido = Res.Contenido, pFoto = Res.Foto});
+            db.Execute(sql, new {  pTitulo = Res.Titulo, pNombreDelUsuario = Res.NombreDelUsuario, pCantLikes = Res.CantLikes, pContenido = Res.Contenido, pFoto = Res.Foto, pIdPelicula = Res.IdPelicula});
         } 
        
         }

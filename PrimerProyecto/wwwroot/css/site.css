@@ -48,8 +48,7 @@ body {
   /* El contenedor con el padding-top crea el tamaño del vídeo */
   .contenedor{
   height:0px;
-  width:100%;
-  max-width:560px; /* Así establecemos el ancho máximo (si lo queremos) */
+  width:100%;  max-width:560px; /* Así establecemos el ancho máximo (si lo queremos) */
   padding-top:56.25%; /* Relación: 16/9 = 56.25% */
   position:relative;
   
@@ -100,3 +99,5 @@ body {
 {
   background-color: gray;
 }
+
+.foto-perfil {max-height:35px}

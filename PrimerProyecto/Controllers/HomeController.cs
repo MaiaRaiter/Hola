@@ -23,7 +23,16 @@ public class HomeController : Controller
         ViewBag.Lista = BD.ListarPeliculas();
         return View();
     }
-
+ public IActionResult IrEventos()
+    {
+        
+        return View("Eventos");
+    }
+     public IActionResult IrPopular()
+    {
+        
+        return View("Popular");
+    }
     public IActionResult Privacy()
     {
         return View();
@@ -50,38 +59,32 @@ public class HomeController : Controller
     //     return View("VerInfoPelicula");
     // }
 
-     public IActionResult AgregarReseña(int IdReseña)
+     public IActionResult AgregarReseña(int IdPelicula)
     {
-        ViewBag.IdReseña = IdReseña;
-
+        
+        ViewBag.IdPelicula = IdPelicula;
         return View("AgregarReseña");
     }
-     public IActionResult EliminarReseña(int IdReseña)
+     public IActionResult EliminarReseña(int IdReseña, int IdPelicula)
     {
        BD.EliminarReseña(IdReseña);
-       return RedirectToAction("Pelicula", new {IdReseña=IdReseña});
+       return RedirectToAction("VerDetallePelicula", new {IdPelicula=IdPelicula});
     }
 
 
      //form
     [HttpPost]
-    public IActionResult GuardarReseña(int IdReseña, string NombreDelUsuario, string titulo,int CantLikes,string Contenido,IFormFile Foto,int IdPelicula)
+    public IActionResult GuardarResena(int IdReseña, string NombreDelUsuario, string Titulo,int CantLikes,string Contenido,IFormFile Foto,int IdPelicula)
      {
-        if(Foto.Length>0)
-        { 
-            string wwwRootLocal= this.Environment.ContentRootPath + @"\wwwroot\" + Foto.FileName;
-            using(var stream=System.IO.File.Create(wwwRootLocal))
-            {
-                Foto.CopyToAsync(stream);
-            }
-        }
+         
+        
 
         //crea un nuevo jugador con los datos pasados por parametros EN JUG
-        Reseña Res= new Reseña(IdReseña, NombreDelUsuario, titulo,CantLikes,Contenido,(""+ Foto.FileName),IdPelicula);
+        Reseña Res= new Reseña(IdReseña, NombreDelUsuario, Titulo,CantLikes,Contenido,(""+ Foto.FileName),IdPelicula);
         //manda al jugador Jug a la base de datos
         BD.AgregarReseña(Res);
          //Redirecciona a VerDetalleEquipo para ver al jugador en la tabla y pasa el IdEquipo
-        return RedirectToAction("Pelicula", "Home", new {IdPelicula = IdPelicula});
+        return RedirectToAction("VerDetallePelicula", "Home", new {IdPelicula = IdPelicula});
 
        
      }

@@ -10,24 +10,24 @@
 </head>
 <body>
     <header>
-        <!--
-        
-        -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img  src= "/imagenes/REDPE.png"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href='@Url.Action("IrEventos", "Home")'> Eventos</a>
+                        </li>
+                        <li class="nav-item">
+                           <a class="nav-link text-dark" href='@Url.Action("IrPopular", "Home")'>Popular</a>
+                        </li>
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <img src="/imagenes/REDPE.png" href="Index.cshtml">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link text-dark" href="Eventos.cshtml">Eventos </a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link text-dark" href="Popular.cshtml">Popular </a>
-                </li>
-                </ul>
+                    </ul>
+                </div>
             </div>
         </nav>
     </header>

@@ -32,15 +32,15 @@
 
   @foreach(Reseña res in @ViewBag.DatosReseña)
  {
-  <img src="@res.Foto" class="mr-3" alt="...">
+  <img class="foto-perfil" src="@res.Foto" class="mr-3" alt="...">
   <div class="media-body">
   <h5 class="mt-0"> @res.NombreDelUsuario</h5>
   <h2 class="mt-0"> @res.Titulo</h2>
-   @res.Contenido
+  @res.Contenido
   </div> 
     <a href='@Url.Action("EliminarReseña","Home",new{idReseña = @res.IdReseña, IdPelicula = @res.IdPelicula})'class="btn btn-primary" type="submit">Eliminar Reseña</a>
  
-    <br></br>
+    <br> </br>
   
       
  }
