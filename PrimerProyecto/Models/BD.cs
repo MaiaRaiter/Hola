@@ -12,8 +12,7 @@ namespace RedPe.Models
          
         
 
-        private static string _connectionString = @"Server=127.0.0.1; 
-        Database=RedPe;Trusted_Connection=True;";//CAMBIAR EL NUMERO DE LA COMPU
+        private static string _connectionString =      @"Server=LAPTOP-N12IUOD8\SQLEXPRESS;DataBase=RedPe;Trusted_Connection=True;";
 
        public static void  AgregarReseña(Reseña Res) 
         {

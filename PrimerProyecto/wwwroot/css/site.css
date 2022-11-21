@@ -105,5 +105,45 @@ body {
 width:45px;
 height:45px;
 
+}
 
+.card-text
+{
+  color: white;
+}
+.Oscar
+{
+  width:100%;
+  height:auto;  
+}
+
+.Emmys
+{
+  width: 45%;;
+  height:auto;  
+}
+
+.IFF
+{
+  width: 45%;;
+  height:auto;  
+  float: right;
+  margin-left: 5%;
+ 
+
+}
+.ImgSize
+{
+  width: 200px;;
+  height: 250px;  
+}
+.Contenido
+{
+  font-size: smaller;
+  color: white;
+}
+.NombrePeli
+{
+  font-size: larger;
+  color: white;
 }
