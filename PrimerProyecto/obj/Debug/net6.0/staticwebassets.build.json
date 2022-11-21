@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c4V4vymD/XHBeseiZvSU06NS7/A/M70zkeXOzRbS/PI=",
+  "Hash": "8CoI1f/9l9vnHtHJ/2IQWYX8WVmbOdqmxyokm3+p3LA=",
   "Source": "PrimerProyecto",
   "BasePath": "_content/PrimerProyecto",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AGRESSIVE.otf"
+    },
+    {
+      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\Arista-Pro-Alternate-Bold-trial.ttf",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "Arista-Pro-Alternate-Bold-trial.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Arista-Pro-Alternate-Bold-trial.ttf"
     },
     {
       "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\BastardosSinGloria.jpg",
@@ -219,23 +236,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\10RazonesParaOdiarte.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Arista-Pro-Alternate-Bold-trial.ttf",
-      "SourceId": "PrimerProyecto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
-      "BasePath": "_content/PrimerProyecto",
-      "RelativePath": "imagenes/Arista-Pro-Alternate-Bold-trial.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\Arista-Pro-Alternate-Bold-trial.ttf"
     },
     {
       "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Arista-Pro-Alternate-Light-trial.ttf",
