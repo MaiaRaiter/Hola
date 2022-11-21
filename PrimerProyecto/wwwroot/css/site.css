@@ -58,10 +58,10 @@ body {
   /* El iframe se adapta al tamaño del contenedor */
   iframe{
   position:absolute;
-  height:100%;
-  width:100%;
+  height:120%;
+  width:150%;
   top:0px;
-  left:0px;
+
   margin-top: -20%;
   }
   .fotoPeli
@@ -70,7 +70,7 @@ body {
   text-align:right;
   width: 250px;
   height:auto;
-  left: 20px;
+  left: 80px;
   margin-top: -40%;
 
 }

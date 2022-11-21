@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8CoI1f/9l9vnHtHJ/2IQWYX8WVmbOdqmxyokm3+p3LA=",
+  "Hash": "K4JnGO5ZUyKtvXGEPl9l+BdoMxHKN9cUPDXX36u56y4=",
   "Source": "PrimerProyecto",
   "BasePath": "_content/PrimerProyecto",
   "Mode": "Default",
@@ -559,6 +559,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\PitchPerfect.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\Proyecto MVC Integral con Ajax.pdf",
+      "SourceId": "PrimerProyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\",
+      "BasePath": "_content/PrimerProyecto",
+      "RelativePath": "imagenes/Proyecto MVC Integral con Ajax.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Proyecto MVC Integral con Ajax.pdf"
     },
     {
       "Identity": "C:\\Users\\raite\\Downloads\\RedPe\\Hola\\PrimerProyecto\\wwwroot\\imagenes\\REDPE.png",
