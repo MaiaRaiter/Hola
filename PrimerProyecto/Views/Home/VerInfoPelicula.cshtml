@@ -36,16 +36,16 @@
   <div class="media-body">
   <h5 class="mt-0"> @res.NombreDelUsuario</h5>
   <h2 class="mt-0"> @res.Titulo</h2>
-  @res.Contenido
+ <p class="ReseñaCont">@res.Contenido</p> 
   </div> 
-    <a href='@Url.Action("EliminarReseña","Home",new{idReseña = @res.IdReseña, IdPelicula = @res.IdPelicula})'class="btn btn-primary" type="submit">Eliminar Reseña</a>
+    <a href='@Url.Action("EliminarReseña","Home",new{idReseña = @res.IdReseña, IdPelicula = @res.IdPelicula})'class="btn btn-danger" type="submit">Eliminar Reseña</a>
  
     <br> </br>
   
       
  }
-<a href='@Url.Action("AgregarReseña","Home",new{IdPelicula = @ViewBag.DatosPelicula.IdPelicula})' class="btn btn-primary">Escribir Reseña</a>
-
+<center><a href='@Url.Action("AgregarReseña","Home",new{IdPelicula = @ViewBag.DatosPelicula.IdPelicula})' class="btn btn-primary btn-lg">¡Escribir Reseña!</a>
+</center>
 
 </body>
 	
