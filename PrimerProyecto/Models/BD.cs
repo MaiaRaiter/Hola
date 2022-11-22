@@ -12,7 +12,7 @@ namespace RedPe.Models
          
         
 
-        private static string _connectionString =      @"Server=LAPTOP-N12IUOD8\SQLEXPRESS;DataBase=RedPe;Trusted_Connection=True;";
+        private static string _connectionString =      @"Server=localhost;DataBase=RedPe;Trusted_Connection=True;";
 
        public static void  AgregarReseña(Reseña Res) 
         {

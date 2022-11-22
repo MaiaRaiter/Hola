@@ -80,11 +80,12 @@ body {
 }
 
 
+
 .card-title 
 {
   font-weight: 900;
   color: orange;
-  font-family:'Bienvenidos';
+  font-family: 'Amatic SC', cursive;
 }
 .recomendacion
 {
@@ -113,7 +114,7 @@ height:45px;
 .card-text
 {
   color: white;
-  font-family:'Bienvenidos'; 
+  font-family: 'Amatic SC', cursive;
 }
 .Oscar
 {
