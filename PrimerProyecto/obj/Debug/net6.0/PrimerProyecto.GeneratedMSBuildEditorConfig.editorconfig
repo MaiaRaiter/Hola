@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimerProyecto
 build_property.RootNamespace = PrimerProyecto
-build_property.ProjectDir = c:\Users\47129177\Downloads\RedPe\Hola\PrimerProyecto\
+build_property.ProjectDir = C:\Users\47129177\Downloads\RedPe\Hola\PrimerProyecto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\47129177\Downloads\RedPe\Hola\PrimerProyecto
+build_property.MSBuildProjectDirectory = C:\Users\47129177\Downloads\RedPe\Hola\PrimerProyecto
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/AgregarReseña.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/AgregarReseña.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyUmVzZcOxYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Eventos.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Eventos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Index.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Popular.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Popular.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3B1bGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Privacy.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/VerInfoPelicula.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Home/VerInfoPelicula.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJJbmZvUGVsaWN1bGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/Error.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/_ViewImports.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/_ViewStart.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/_Layout.cshtml]
+[C:/Users/47129177/Downloads/RedPe/Hola/PrimerProyecto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wxllkct6j3

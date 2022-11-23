@@ -14,6 +14,47 @@ namespace RedPe.Models
 
         private static string _connectionString =      @"Server=localhost;DataBase=RedPe;Trusted_Connection=True;";
 
+        public static Pelicula SumarMegustaPelicula(int idPelicula)
+        {
+            string sql = "";
+
+             using(SqlConnection db = new SqlConnection(_connectionString))
+            {
+                 sql = "Update  Pelicula set CantLikes=CantLikes+1 where IdPelicula=@pIdPelicula";
+                 db.Execute(sql, new { pIdPelicula = idPelicula });
+            }
+
+         
+             using (SqlConnection db = new SqlConnection(_connectionString))
+             {
+                sql = "SELECT * FROM Pelicula where IdPelicula=@pIdPelicula";
+               return db.QueryFirstOrDefault<Pelicula>(sql, new {  pIdPelicula = idPelicula});
+        
+             }   
+        }
+
+          public static Pelicula SumarViewsPelicula(int idPelicula)
+        {
+            string sql = "";
+
+             using(SqlConnection db = new SqlConnection(_connectionString))
+            {
+                 sql = "Update Pelicula set CantViews=CantViews+1 where IdPelicula=@pIdPelicula";
+                 db.Execute(sql, new { pIdPelicula = idPelicula });
+            }
+
+         
+             using (SqlConnection db = new SqlConnection(_connectionString))
+             {
+                sql = "SELECT * FROM Pelicula where IdPelicula=@pIdPelicula";
+               return db.QueryFirstOrDefault<Pelicula>(sql, new {  pIdPelicula = idPelicula});
+        
+             }   
+        }
+       
+      
+
+
        public static void  AgregarReseña(Reseña Res) 
         {
         

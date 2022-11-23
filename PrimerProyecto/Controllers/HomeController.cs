@@ -71,6 +71,24 @@ public class HomeController : Controller
        return RedirectToAction("VerDetallePelicula", new {IdPelicula=IdPelicula});
     }
 
+    public Pelicula MeGustaPelicula(int idpelicula)
+    {
+         Pelicula pel;
+         pel= BD.SumarMegustaPelicula(idpelicula);
+         
+        return pel;
+    }
+
+    public Pelicula ViewsPelicula(int idpelicula)
+    {
+         Pelicula pel;
+         pel= BD.SumarViewsPelicula(idpelicula);
+         
+        return pel;
+    }
+    
+    
+
 
      //form
     [HttpPost]

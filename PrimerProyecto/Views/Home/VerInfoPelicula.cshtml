@@ -11,6 +11,11 @@
 
     <div class="text-center">
     <h1>@ViewBag.DatosPelicula.Nombre</h1>
+    <p onclick="MeGustaPelicula(@ViewBag.DatosPelicula.IdPelicula)" class="btn  btn-sm btn-light">Me Gusta</p>
+     <span id="likespelicula"> @ViewBag.DatosPelicula.CantLikes</span>
+     <p onclick="ViewsPelicula(@ViewBag.DatosPelicula.IdPelicula)" class="btn  btn-sm btn-warning">La Vi</p>
+     <span id="viewspelicula"> @ViewBag.DatosPelicula.CantViews</span>
+
     </div>
 
    <div class="delimitador">
@@ -40,13 +45,13 @@
   </div> 
     <a href='@Url.Action("EliminarReseña","Home",new{idReseña = @res.IdReseña, IdPelicula = @res.IdPelicula})'class="btn btn-danger" type="submit">Eliminar Reseña</a>
  
-    <br> </br>
-  
+ 
       
+    <br> </br>
  }
 <center><a href='@Url.Action("AgregarReseña","Home",new{IdPelicula = @ViewBag.DatosPelicula.IdPelicula})' class="btn btn-primary btn-lg">¡Escribir Reseña!</a>
 </center>
-
+ 
 </body>
 	
 <html>
